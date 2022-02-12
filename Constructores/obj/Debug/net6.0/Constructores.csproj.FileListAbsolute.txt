@@ -1,0 +1,15 @@
+D:\C#\Git\Codemojo\Constructores\bin\Debug\net6.0\Constructores.exe
+D:\C#\Git\Codemojo\Constructores\bin\Debug\net6.0\Constructores.deps.json
+D:\C#\Git\Codemojo\Constructores\bin\Debug\net6.0\Constructores.runtimeconfig.json
+D:\C#\Git\Codemojo\Constructores\bin\Debug\net6.0\Constructores.dll
+D:\C#\Git\Codemojo\Constructores\bin\Debug\net6.0\ref\Constructores.dll
+D:\C#\Git\Codemojo\Constructores\bin\Debug\net6.0\Constructores.pdb
+D:\C#\Git\Codemojo\Constructores\obj\Debug\net6.0\Constructores.csproj.AssemblyReference.cache
+D:\C#\Git\Codemojo\Constructores\obj\Debug\net6.0\Constructores.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Git\Codemojo\Constructores\obj\Debug\net6.0\Constructores.AssemblyInfoInputs.cache
+D:\C#\Git\Codemojo\Constructores\obj\Debug\net6.0\Constructores.AssemblyInfo.cs
+D:\C#\Git\Codemojo\Constructores\obj\Debug\net6.0\Constructores.csproj.CoreCompileInputs.cache
+D:\C#\Git\Codemojo\Constructores\obj\Debug\net6.0\Constructores.dll
+D:\C#\Git\Codemojo\Constructores\obj\Debug\net6.0\ref\Constructores.dll
+D:\C#\Git\Codemojo\Constructores\obj\Debug\net6.0\Constructores.pdb
+D:\C#\Git\Codemojo\Constructores\obj\Debug\net6.0\Constructores.genruntimeconfig.cache
